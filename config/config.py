@@ -1,0 +1,1 @@
+# OpenAI API Configuration and Application Settings\n\nOPENAI_API_KEY = 'your_openai_api_key'\n\n# Application Settings\nDEBUG = True\nDATABASE_URL = 'your_database_url'\n
